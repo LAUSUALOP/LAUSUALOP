@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Laura Suárez López 👋
 
-<!--
-**LAUSUALOP/LAUSUALOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Especializada en **Data Science, Machine Learning e IA aplicada**.
 
-Here are some ideas to get you started:
+## 🚀 Proyecto destacado — Licizen
+> Sistema de IA para la redacción automatizada de pliegos técnicos y administrativos.
+> Reduce el tiempo de elaboración de documentos de licitación mediante procesamiento de lenguaje natural.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [[Ver presentación en LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7373704496360792066/)
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://www.linkedin.com/in/laura-sualop/)
+
+> Abierto a oportunidades remotas en Data Science / ML / IA
